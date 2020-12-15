@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Training-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Training_java_jar</output-path>
+    <root id="archive" name="Training-java.jar">
+      <element id="module-output" name="Training-java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/strukdas/lib/commons-lang3-3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
